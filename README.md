@@ -1,4 +1,4 @@
-###Programming Assignment - Getting and Cleaning Data
+### Programming Assignment - Getting and Cleaning Data
 In run_analysis.R the following transformations are performed on the source data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 and a file activity_recognition.csv with the final data will be created.
 
